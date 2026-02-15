@@ -1,0 +1,41 @@
+h1{
+    color: #0B2D72;
+    font-family: 'Creepster';
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color: #0992C2;
+    font-family: 'Oswald';
+    font-size: 30px;
+}
+
+p{
+    color: #F68048;
+    font-family: 'Caveat';
+    font-size: 25px;
+}
+
+ul{
+   color: #F68048;
+}
+
+li{
+    line-height: 35px;
+}
+a {
+    color: #F68048;
+    text-decoration: none;   
+}
+
+
+tr {
+    color: #BF092F;
+    line-height: 40px;
+    text-align: center;
+}
+
+ol{
+   color: #F68048;
+}
